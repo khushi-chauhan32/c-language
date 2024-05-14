@@ -36,8 +36,6 @@
 
 
 #include<stdio.h>
-
-#include<stdio.h>
 void sum()
 {
 	int first,second,c;
